@@ -1,0 +1,14 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+.mid1{
+    padding: 155px 0px;
+    text-align: center;
+    color:white;
+    font-size: 50px;
+}
+.bg1{
+  height: 1100px;
+  background-image: url("./assets/img/events-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
