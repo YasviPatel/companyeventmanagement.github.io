@@ -62,7 +62,7 @@ const UpdateeventForm = () => {
                 id="dept"
                 name="dept"
                 onChange={(e) => setLoc(e.target.value)}
-                required
+                // required
               >
                 <option value="Seminar hall">Seminar hall</option>
                 <option

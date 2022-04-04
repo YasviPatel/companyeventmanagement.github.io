@@ -55,7 +55,7 @@ const Signup = () => {
     .then(()=>{
     db.collection("User").add({
         email:email, 
-        password: password,
+        // password: password,
         fname: fname,
         lname: lname,
         eid:eid,

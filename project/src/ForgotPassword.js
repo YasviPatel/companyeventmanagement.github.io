@@ -29,7 +29,7 @@ const ForgotPassword = () => {
         
             <>
             <div className='bg'>
-            <Navbar/>
+            {/* <Navbar/> */}
             <div className="login-page">
       <div className="form">
         <div className="login">
